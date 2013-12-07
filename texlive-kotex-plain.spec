@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-kotex-plain
 Version:	20131103
-Release:	3
+Release:	4
 Summary:	Macros for typesetting Korean under Plain TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/korean/kotex-plain
