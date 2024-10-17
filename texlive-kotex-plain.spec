@@ -3,7 +3,7 @@ Version:	63689
 Release:	2
 Summary:	Macros for typesetting Korean under Plain TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/language/korean/kotex-plain
+URL:		https://www.ctan.org/tex-archive/language/korean/kotex-plain
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kotex-plain.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kotex-plain.doc.r%{version}.tar.xz
